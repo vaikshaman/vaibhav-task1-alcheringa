@@ -1,0 +1,137 @@
+.footer{
+    
+
+    background: #11002c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.cdnfonts.com/css/masked-hero-demo');
+@import url('https://fonts.cdnfonts.com/css/palanquin');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+.page-footer {
+  background-color: #11002c;
+  /* display: grid;
+  grid-template-columns: 1.9fr repeat(3, 1fr); */
+  font-size: 1.45rem;
+  font-weight: 300;
+  line-height: 2;
+  @media (max-width: 56.25em)
+}
+
+.myclass{
+  margin: 5%;
+}
+
+
+.text1{
+  font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}
+
+.anchortag{
+padding: 3%;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}
+.ulListpara{
+  padding-bottom: 0;
+  font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 26px;
+font-feature-settings: 'liga' off;
+color: #FFFFFF;
+}
+.myfooteranchor{
+  text-decoration: none;
+}
+.myfooteranchor:hover{
+
+  color: #9966FF;
+}
+.ForMargin{
+  margin-top: 3%;
+  margin-right: 0%;
+  text-align: left;
+}
+#inner-2{
+  height: auto;
+  width: auto;
+  font-family: 'Outfit';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 2.313rem;
+  line-height: 3.625rem;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  /* white-space: nowrap; */
+}
+#inner-3{
+  font-family: 'Palanquin';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 2.125rem;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+
+#inner-1{
+  margin-top: 0.001rem;
+  width: 6.132rem;
+  height: 2.938rem;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+#inner-4{
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+#inner-5{
+  margin-top: 3rem;
+}
+
+.mybtn{
+  border-radius: 50% !important;
+  font-size: 90%;
+  background-color:  #1f1139 ;
+  outline-color: none !important;
+}
+    
